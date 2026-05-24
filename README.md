@@ -1,71 +1,46 @@
 # Quike Bite ☁️🍽️
 
-Quike Bite is a cloud-focused smart cafeteria management and online food ordering platform developed as a Final Year Engineering Project. The project is designed with modern cloud architecture principles to deliver scalable, secure, and efficient digital cafeteria operations.
+Quike Bite is a cloud-enabled smart cafeteria management and online food ordering platform built to modernize campus dining operations through scalable architecture, secure authentication, and real-time order management.
 
 ---
 
-# ☁️ Cloud-Centric Project Vision
+## 🚀 Features
 
-This project focuses primarily on implementing and understanding cloud computing concepts through a real-world food ordering system.
-
-The platform demonstrates how cloud technologies can modernize traditional cafeteria operations by enabling:
-- Scalable application deployment
-- Centralized database management
-- High availability infrastructure
-- Secure user access
-- Real-time order processing
-- Remote accessibility
-
----
-
-# 🚀 Key Features
-
-- Secure User Authentication
-- Smart Food Ordering System
-- Real-Time Order Management
-- Admin Dashboard
-- Responsive User Interface
-- Recommendation Module
-- Database Integration
-- Cloud Deployment Ready Architecture
+- 🔐 Secure Authentication System
+- 🍔 Smart Food Ordering Platform
+- 🛒 Cart & Order Management
+- 📦 Real-Time Order Processing
+- 👨‍💼 Admin Management Dashboard
+- 📋 Digital Menu Management
+- 📊 Recommendation Engine
+- 📱 Fully Responsive Interface
+- ☁️ Cloud Deployment Ready
+- 🔍 Scalable System Architecture
 
 ---
 
-# 🏗️ Repository Structure
+## ☁️ Cloud-Focused Architecture
 
-```bash
-├── admin-portal/      # Admin management modules
-├── backend/           # Server-side APIs and logic
-├── database/          # Database configuration and scripts
-├── public/            # Static assets
-├── recomendation/     # Recommendation engine
-├── src/               # Frontend source code
-```
+This project is primarily designed around cloud computing concepts and scalable deployment practices.
 
----
+### AWS Services Used / Planned
 
-# ☁️ Cloud Technologies & Services
-
-The project architecture is designed around cloud deployment and infrastructure concepts.
-
-### AWS Services Focused
-- Amazon EC2 → Application Hosting
-- Amazon RDS → Managed Database Service
-- Amazon S3 → Static Storage
-- AWS IAM → Access Management
-- AWS VPC → Secure Networking
-- CloudWatch → Monitoring & Logging
+- **Amazon EC2** → Application Hosting
+- **Amazon RDS** → Managed Database
+- **Amazon S3** → Static Asset Storage
+- **AWS IAM** → Secure Access Control
+- **AWS VPC** → Network Isolation & Security
+- **CloudWatch** → Monitoring & Logging
 
 ---
 
-# 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
+- React.js
 - TypeScript
 - Tailwind CSS
+- Vite
 
 ### Backend
 - Node.js
@@ -74,49 +49,65 @@ The project architecture is designed around cloud deployment and infrastructure 
 ### Database
 - PostgreSQL
 
-### Tools & Platforms
+### DevOps & Tools
+- AWS Cloud Services
 - Git & GitHub
 - Vercel
-- npm
 - ESLint
 
 ---
 
-# 🔒 Security Features
+## 📂 Project Structure
 
-- Role-Based Authentication
-- Secure API Communication
-- Protected Admin Modules
-- Input Validation
-- Cloud Security Principles
-
----
-
-# 🎯 Project Objective
-
-The main objective of Quike Bite is to apply cloud computing concepts in a real-world application by developing a scalable and efficient smart cafeteria platform capable of supporting modern digital food ordering systems.
-
----
-
-# 🚀 Future Enhancements
-
-- AI-Based Food Recommendations
-- Online Payment Gateway
-- Live Order Tracking
-- Mobile Application
-- Cloud Auto Scaling
-- Serverless Integration
+```bash
+Quike_Bite/
+│
+├── admin-portal/      # Administrative dashboard
+├── backend/           # Backend APIs & business logic
+├── database/          # Database scripts & configurations
+├── public/            # Static assets
+├── recomendation/     # Recommendation module
+├── src/               # Frontend application source
+```
 
 ---
 
-# 👨‍💻 Developed By
+## 🔒 Security Features
+
+- Session-Based Authentication
+- Protected Admin Routes
+- API Validation & Error Handling
+- Role-Based Access Management
+- Secure Cloud Infrastructure Practices
+
+---
+
+## 🎯 Project Objective
+
+The objective of Quike Bite is to leverage cloud computing and modern web technologies to build a scalable, secure, and efficient digital cafeteria ecosystem capable of improving user experience and operational efficiency.
+
+---
+
+## 🚀 Future Enhancements
+
+- 💳 Online Payment Gateway
+- 🤖 AI-Based Food Recommendations
+- 📍 Live Order Tracking
+- 📲 Mobile Application Support
+- 📈 Analytics Dashboard
+- ⚡ Auto Scaling Infrastructure
+- ☁️ Serverless Cloud Integration
+
+---
+
+## 👨‍💻 Developed By
 
 Pratik Dashore  
 Final Year Engineering Project
 
 ---
 
-# 📄 License
+## 📜 License
 
 This project is developed for academic and learning purposes.
 
