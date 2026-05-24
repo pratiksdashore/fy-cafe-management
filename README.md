@@ -120,7 +120,7 @@ The application is deployed using AWS cloud infrastructure for scalability, avai
 
 ---
 
-## 👨‍💻 Developed By
+##  ☁️ Cloud Deployment & 👨‍💻 Infrastructure Management By
 
 **Pratik Dashore**  
 Final Year Engineering Project
