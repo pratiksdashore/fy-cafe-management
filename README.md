@@ -1,5 +1,8 @@
 # Quike Bite ☁️🍽️
 
+### 🌐 Live Demo
+🚀 **Website:** https://d1uabievsnafa9.cloudfront.net
+
 Quike Bite is a cloud-enabled smart cafeteria management and online food ordering platform built to modernize campus dining operations through scalable architecture, secure authentication, and real-time order management.
 
 ---
@@ -30,6 +33,7 @@ This project is primarily designed around cloud computing concepts and scalable 
 - **Amazon S3** → Static Asset Storage
 - **AWS IAM** → Secure Access Control
 - **AWS VPC** → Network Isolation & Security
+- **Amazon CloudFront** → Global Content Delivery
 - **CloudWatch** → Monitoring & Logging
 
 ---
@@ -88,6 +92,22 @@ The objective of Quike Bite is to leverage cloud computing and modern web techno
 
 ---
 
+## 🚀 Deployment
+
+The application is deployed using AWS cloud infrastructure for scalability, availability, and performance optimization.
+
+### Live Application
+👉 https://d1uabievsnafa9.cloudfront.net
+
+### Cloud Deployment Highlights
+- AWS CloudFront CDN Distribution
+- Scalable Cloud Hosting Architecture
+- Optimized Static Asset Delivery
+- Secure Cloud-Based Deployment
+- High Availability Design
+
+---
+
 ## 🚀 Future Enhancements
 
 - 💳 Online Payment Gateway
@@ -102,7 +122,7 @@ The objective of Quike Bite is to leverage cloud computing and modern web techno
 
 ## 👨‍💻 Developed By
 
-Pratik Dashore  
+**Pratik Dashore**  
 Final Year Engineering Project
 
 ---
